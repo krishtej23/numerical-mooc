@@ -1,4 +1,4 @@
-Interesting course to be learned by Krishna Teja Medam.
+$$Interesting course to be learned by Krishna Teja Medam.$$
 
 #Practical Numerical Methods in Python
 
